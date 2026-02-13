@@ -1,0 +1,6 @@
+*.log
+docs/User_Manual
+*-*.txt
+styles.css
+SRS_v*
+SRD_v*
